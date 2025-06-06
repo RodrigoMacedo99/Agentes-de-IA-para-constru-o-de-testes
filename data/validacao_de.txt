@@ -1,0 +1,19 @@
+CHECKLIST – DESIGN EDUCACIONAL
+
+| Nº | Item                                                                                                                                 | Sim | Não | NA  | Observação |
+|----|--------------------------------------------------------------------------------------------------------------------------------------|-----|-----|-----|-------------|
+| 1  | As questões abordam os conteúdos tratados nas UAs/Etapas/Aulas correspondentes?                                                     |     |     |     |             |
+| 2  | Os objetivos de aprendizagem indicados nos grupos correspondem aos definidos no PAA?                                                |     |     |     |             |
+| 3  | Todas as questões de um grupo permitem avaliar a aprendizagem a partir do(s) objetivo(s) associado(s)? (máximo 2 objetivos).        |     |     |     |             |
+| 4  | Há correlação entre os conteúdos desenvolvidos nas UAs/Etapas/Aulas e as questões?                                                  |     |     |     |             |
+| 5  | O texto-base/enunciado está claro e sem ambiguidades?                                                                               |     |     |     |             |
+| 6  | O texto-base/enunciado dá suporte para a resolução da questão?                                                                      |     |     |     |             |
+| 7  | Os feedbacks das questões justificam o porquê do acerto ou erro de forma clara e precisa?                                           |     |     |     |             |
+| 8  | Há indicação de referência nos textos de suporte, seja autoral ou de curadoria?                                                     |     |     |     |             |
+| 9  | Nenhum comando solicita assinalar a alternativa incorreta?                                                                          |     |     |     |             |
+| 10 | As questões não avaliam conteúdos memorizados?                                                                                      |     |     |     |             |
+| 11 | As questões não apresentam alternativas com "todas as afirmativas estão erradas/incorretas"?                                        |     |     |     |             |
+| 12 | As questões apresentam alternativas com extensão semelhante?                                                                        |     |     |     |             |
+| 13 | As questões não apresentam elementos que tornem a afirmação falsa, como: “apenas”, “somente”, “nunca”, etc.?                        |     |     |     |             |
+| 14 | Todas as afirmativas iniciam com palavras da mesma classe gramatical?                                                               |     |     |     |             |
+| 15 | Cada item avaliativo contempla 5 alternativas de resposta?                                                                          |     |     |     |             |

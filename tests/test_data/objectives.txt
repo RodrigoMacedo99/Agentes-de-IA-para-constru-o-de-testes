@@ -1,0 +1,2 @@
+Obj.1: Identificar critérios de qualidade e relevância dos dados, como completude, consistência e ausência de vieses.
+

@@ -1,0 +1,20 @@
+{
+  "type": "single_answer",
+  "context": "Texto de contextualização da questão...",
+  "statement": "Enunciado da questão...",
+  "alternatives": [
+    {"id": "a", "text": "Alternativa A", "correct": true},
+    {"id": "b", "text": "Alternativa B", "correct": false},
+    {"id": "c", "text": "Alternativa C", "correct": false},
+    {"id": "d", "text": "Alternativa D", "correct": false},
+    {"id": "e", "text": "Alternativa E", "correct": false}
+  ],
+  "feedback": {
+    "a": "Correta. Justificativa para A...",
+    "b": "Incorreta. Justificativa para B...",
+    "c": "Incorreta. Justificativa para C...",
+    "d": "Incorreta. Justificativa para D...",
+    "e": "Incorreta. Justificativa para E..."
+  }
+}
+

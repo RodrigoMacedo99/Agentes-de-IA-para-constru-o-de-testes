@@ -1,0 +1,24 @@
+{
+  "type": "assertion_reason",
+  "context": "Texto de contextualização da questão...",
+  "statement": "Avalie as asserções a seguir e a relação proposta entre elas.",
+  "assertions": [
+    {"id": "I", "text": "Asserção I", "correct": true},
+    {"id": "II", "text": "Asserção II (PORQUE)", "correct": true}
+  ],
+  "alternatives": [
+    {"id": "a", "text": "As asserções I e II são proposições verdadeiras, e a II é uma justificativa correta da I.", "correct": true},
+    {"id": "b", "text": "As asserções I e II são proposições verdadeiras, mas a II não é uma justificativa correta da I.", "correct": false},
+    {"id": "c", "text": "A asserção I é uma proposição verdadeira, e a II é uma proposição falsa.", "correct": false},
+    {"id": "d", "text": "A asserção I é uma proposição falsa, e a II é uma proposição verdadeira.", "correct": false},
+    {"id": "e", "text": "As asserções I e II são proposições falsas.", "correct": false}
+  ],
+  "feedback": {
+    "a": "Correta. Justificativa para A...",
+    "b": "Incorreta. Justificativa para B...",
+    "c": "Incorreta. Justificativa para C...",
+    "d": "Incorreta. Justificativa para D...",
+    "e": "Incorreta. Justificativa para E..."
+  }
+}
+

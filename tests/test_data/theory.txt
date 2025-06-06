@@ -1,0 +1,10 @@
+A qualidade dos dados é fundamental para o sucesso de projetos de ciência de dados e análise. Dados de alta qualidade são caracterizados por sua precisão, completude, consistência e relevância para o problema em questão.
+
+A completude dos dados refere-se à ausência de valores faltantes ou nulos que possam comprometer a análise. Dados incompletos podem levar a conclusões enviesadas ou incorretas.
+
+A consistência dos dados diz respeito à coerência entre diferentes partes do conjunto de dados. Dados inconsistentes podem conter contradições ou anomalias que dificultam a análise.
+
+A ausência de vieses é outro critério importante, pois vieses nos dados podem levar a resultados discriminatórios ou injustos. É essencial identificar e mitigar vieses antes de utilizar os dados para tomada de decisão.
+
+A relevância dos dados está relacionada à sua adequação ao problema em questão. Dados irrelevantes podem aumentar o ruído e dificultar a identificação de padrões significativos.
+

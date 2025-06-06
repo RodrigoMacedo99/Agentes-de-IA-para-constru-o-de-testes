@@ -1,0 +1,7 @@
+flask
+requests
+pandas
+nltk
+pyyaml
+python-dotenv
+flask-cors

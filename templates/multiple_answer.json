@@ -1,0 +1,26 @@
+{
+  "type": "multiple_answer",
+  "context": "Texto de contextualização da questão...",
+  "statement": "Enunciado da questão...",
+  "assertions": [
+    {"id": "I", "text": "Afirmativa I", "correct": true},
+    {"id": "II", "text": "Afirmativa II", "correct": false},
+    {"id": "III", "text": "Afirmativa III", "correct": true},
+    {"id": "IV", "text": "Afirmativa IV", "correct": false}
+  ],
+  "alternatives": [
+    {"id": "a", "text": "Se apenas as afirmativas I e III estiverem corretas", "correct": true},
+    {"id": "b", "text": "Se apenas as afirmativas II e IV estiverem corretas", "correct": false},
+    {"id": "c", "text": "Se apenas as afirmativas I, II e III estiverem corretas", "correct": false},
+    {"id": "d", "text": "Se apenas as afirmativas II, III e IV estiverem corretas", "correct": false},
+    {"id": "e", "text": "Se todas as afirmativas estiverem corretas", "correct": false}
+  ],
+  "feedback": {
+    "a": "Correta. Justificativa para A...",
+    "b": "Incorreta. Justificativa para B...",
+    "c": "Incorreta. Justificativa para C...",
+    "d": "Incorreta. Justificativa para D...",
+    "e": "Incorreta. Justificativa para E..."
+  }
+}
+

@@ -1,0 +1,12 @@
+CHECKLIST – REVISOR TÉCNICO
+
+| Nº | Item                                                                                                                                 | Sim | Não | NA  | Observação |
+|----|--------------------------------------------------------------------------------------------------------------------------------------|-----|-----|-----|-------------|
+| 1  | As questões abordam os conteúdos tratados nas UAs/Etapas/Aulas correspondentes?                                                     |     |     |     |             |
+| 2  | Os objetivos de aprendizagem indicados nos grupos correspondem aos definidos no PAA?                                                |     |     |     |             |
+| 3  | Todas as questões de um grupo permitem avaliar a aprendizagem a partir do(s) objetivo(s) associado(s)? (máximo 2 objetivos).        |     |     |     |             |
+| 4  | Há correlação entre os conteúdos desenvolvidos nas UAs/Etapas/Aulas e as questões?                                                  |     |     |     |             |
+| 5  | O nível de complexidade das questões é coerente com os conteúdos propostos nas UAs/Etapas/Aulas correspondentes?                   |     |     |     |             |
+| 6  | Os feedbacks das questões justificam o porquê do acerto ou erro de forma clara e precisa?                                           |     |     |     |             |
+| 7  | O texto-base/enunciado está claro e sem ambiguidades?                                                                               |     |     |     |             |
+| 8  | As questões não avaliam conteúdos memorizados?                                                                                      |     |     |     |             |
