@@ -31,7 +31,7 @@ O Sistema Multi-Agente para Criação e Validação de Questões utiliza uma abo
 
 ```bash
 # Clonar o repositório
-git clone https://github.com/seu-usuario/multi-agent-system.git
+git clone https://github.com/RodrigoMacedo99/Agentes-de-IA-para-constru-o-de-testes.git
 cd multi-agent-system
 
 # Instalar as dependências
